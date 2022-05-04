@@ -34,7 +34,7 @@ header{
   font-size: 24px;
 }
 
-.header-link,
+.header-link a,
 .p-text{
   font-size: 18px;
   color: #e5e7eb;
@@ -73,6 +73,7 @@ header{
 }
 
 .header-btn{
+  cursor:pointer;
   border-radius:8px;
   padding: 8px 32px;
   background-color:#3882f6;
@@ -98,8 +99,6 @@ header{
 
 .element-img {
   padding: 8px;
-  border: 3px solid #73a5f8;
-  border-radius: 8px;
   width: 150px;
   height: 150px;
 }
@@ -200,8 +199,13 @@ footer a{
   display: flex;
 }
 .sign-up-span{
+  cursor:pointer;
   align-self:center;
   padding: 8px 32px;
   border: #e5e7eb 3px solid;
   border-radius:8px;
+}
+
+.sign-up-span a{
+  color:#e5e7eb;
 }
