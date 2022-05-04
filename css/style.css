@@ -125,21 +125,29 @@ header{
 
 
 .quote{
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
   background:#e5e7eb;
   margin: 100px 0;
   width: 100%;
-  height: 300px;
+  height: auto;
 }
 
 .quote-div{
+  width: 800px;
   flex-direction: column;
   font-style: italic;
   font-weight: 300;
   font-size: 36px;
-  justify-content: center;
   align-items:center;
   display: flex;
   color:#2a0037;
+}
+
+.quote-div span{
+  font-weight: bold;
+  align-self: end;
 }
 
 
