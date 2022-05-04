@@ -1,6 +1,7 @@
 # Flex-landing
 
 Project ilustration:
+
 ![Project ilustration](./project.png)
 
 ## About
