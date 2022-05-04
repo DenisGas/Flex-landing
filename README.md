@@ -1,10 +1,10 @@
 # Flex-landing
 [Project Ilustation](https://github.com/DenisGas/Flex-landing/edit/main/project.jpg)
 
-##About
+## About
 Just flex-landing. 
 
-##Technologies
+## Technologies
 Used for this project:CSS-Flex, Chrome and Mozila DevTools, Git.
 
 ## Histori
