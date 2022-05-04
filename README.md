@@ -1,5 +1,5 @@
 # Flex-landing
-![Image text](https://github.com/DenisGas/Flex-landing/edit/main/project.png)
+![Project Ilustration](https://github.com/DenisGas/Flex-landing/edit/main/project.png)
 
 ## About
 Just flex-landing. 
